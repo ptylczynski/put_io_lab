@@ -3,3 +3,4 @@
 Początek traktatu czasu panowania Fryderyka Wielkiego, Króla Pruskiego żył w prawdzie była wzniecona ~~ Lorem Ipsum - Kant
 
 ~~Zmiana~~
+__Konflikt__
