@@ -102,6 +102,8 @@ public class Object {
      */
     public native int hashCode();
 
+another new change 2
+
     /**
      * Indicates whether some other object is "equal to" this one.
      * <p>
