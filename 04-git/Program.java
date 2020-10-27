@@ -241,6 +241,8 @@ another new change 2
         return getClass().getName() + "@" + Integer.toHexString(hashCode());
     }
 
+super sneaky change no. 3
+
     /**
      * Wakes up a single thread that is waiting on this object's
      * monitor. If any threads are waiting on this object, one of them
