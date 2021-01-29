@@ -1,0 +1,14 @@
+1. Średni czas odpowiedzi i przepustowość dla kodu bazowego
+    Average: 7351
+    Throughput: 2.1 / sec
+2. Krótko opisz na czym polegały Twoje usprawnienia
+    Przeniesienie funkcji liczącej średnią poza pętlę
+3. Średni czas odpowiedzi i przepustowość dla kodu po modyfikacji
+    Average: 4708
+    Throughput: 1.8 / sec
+4. Rekomendowaną przez Ciebie liczbę drukarek z uzasadnieniem (podając osiągane
+przepustowości w stosunku do zakładanej)
+    W przypadku 10 drukarek osiągamy przepustowość ok. 2 kart na sekundę.
+    1 drukarka drukuje 12 kart na minutę, a 10 120 kart na minutę -> 120 kart na minutę = 2 karty na sekundę
+    
+    Aby drukować 7 kart na sekundę - zapsa 1.5 sekundy należy drukować 7 * 60 = 420 kart na minutę. Jeżeli jedna drukarka drukuje 12 kart na minutę to potrzeba 420 / 12 durkarek -> 35 drukarek
